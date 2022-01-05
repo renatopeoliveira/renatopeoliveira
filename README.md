@@ -1,7 +1,7 @@
 <div>
-  <h1 align="center">Olá, como vai? Eu sou o <a href="https://www.linkedin.com/in/renatopeoli/"><i>Renato PeOli</i></a> 😃️</h1>
+  <h1 align="center">Olá, como vai? Eu sou o <a href="https://www.linkedin.com/in/renatopeoli/"><i>Renato PeOli</i></a> 😃️👋🏼</h1>
   <p align="center">Sou graduado em "Sistemas de Informação" na <a href="https://www.estacio.br/"><i>Universidade Estácio de Sá</i></a>, estudante de tecnologia na <a href="https://www.alura.com.br/"><i>Alura</i></a> e na <a href="https://www.estudonauta.com.br/"><i>Estudonauta</i></a>. 
-<p align="center">😉️ Compartilho aqui, meus projetos e a evolução do meu aprendizado  😉️</h2>
+<p align="center">✔️ Compartilho aqui, meus projetos e a evolução do meu aprendizado  😉️</h2>
 </div>
 
 <div align="center">
