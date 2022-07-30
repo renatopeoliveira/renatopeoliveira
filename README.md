@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá! Seja muito bem-vindo(a)!<br> Eu sou o <a href="https://www.linkedin.com/in/renatopeoli/"><i>Renato PeOli</i></a> 😃️👋🏼</h1>
+  <h1 align="center">👋🏼 Olá! Seja muito bem-vindo(a)!<br> Eu sou o <a href="https://www.linkedin.com/in/renatopeoli/"><i>Renato PeOli</i></a> 😃️</h1>
   <p align="center">📈 Bacharel em "Sistemas de Informação" na <a href="https://www.estacio.br/"><i>Universidade Estácio de Sá</i></a>;<br> 🔒Pós-graduado em "Cyber Security" (em andamento) na <a href="https://www.educaminas.com.br/"><i>Educa Minas</i></a>;<br> 🧐Estudante de Programação/Dev na <a href="https://www.alura.com.br/"><i>Alura</i></a> e na <a href="https://www.estudonauta.com.br/"><i>Estudonauta</i></a>. 
 <p align="center">⚠️ Compartilho aqui, meus projetos e a evolução do meu aprendizado.  😉️</h2>
 </div>
