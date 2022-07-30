@@ -14,10 +14,11 @@
 <div align="center" valign="top"><br>
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="405" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-  <img align="center" alt="Windows" height="30" width="40" src="https://iconape.com/wp-content/files/sj/380491/svg/380491.svg">
+  <img align="center" alt="github" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">  
 </div>
 
  ##
