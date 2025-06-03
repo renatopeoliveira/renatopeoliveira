@@ -11,12 +11,6 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
-  
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/python_icon_130849.png">  
-  <img align="center" alt="HTML" height="30" width="40" src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg">
-  
-</div>
 
  ##
 
